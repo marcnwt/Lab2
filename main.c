@@ -10,7 +10,7 @@ int main(int argc char *argv[]){
 
     while(1){
 
-        //another test
+        //TEsting branching out
         PORTD = 0b01000000; //D5 green
         mTimer(1000);
 
